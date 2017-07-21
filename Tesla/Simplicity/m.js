@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "03 Rise and Fall.mp3";		
+f[2]	= "04 So Divine¡­.mp3";		
+f[3]	= "05 Cross My Heart.mp3";		
+f[4]	= "07 Flip Side.mp3";		
+f[5]	= "08 Other Than Me.mp3";		
+f[6]	= "09 Break of Dawn.mp3";		
+f[7]	= "10 Burnout to Fade.mp3";		
+f[8]	= "11 Life is a River.mp3";		
+f[9]	= "13 Time Bomb.mp3";		
+f[10]	= "14 'Til That Day.mp3";		
+f[11]	= "Honestly.mp3";		
+f[12]	= "MP3.mp3";		
+f[13]	= "Ricochet.mp3";		
+f[14]	= "Sympathy.mp3";		
