@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Show Me a Leader.mp3";		
+f[2]	= "02 The Writing on the Wall.mp3";		
+f[3]	= "03 The Other Side.mp3";		
+f[4]	= "04 My Champion.mp3";		
+f[5]	= "05 Poison in Your Veins.mp3";		
+f[6]	= "06 Cradle to the Grave.mp3";		
+f[7]	= "07 Losing Patience.mp3";		
+f[8]	= "08 This Side of Fate.mp3";		
+f[9]	= "09 You Will Be Remembered.mp3";		
+f[10]	= "10 Crows on a Wire.mp3";		
+f[11]	= "12 Island of Fools.mp3";		
+f[12]	= "13 The Last Hero.mp3";		
+f[13]	= "Twilight.mp3";		
