@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Pennies from Heaven.mp3";		
+f[2]	= "03 Ain't Misbehavin'.mp3";		
+f[3]	= "04 Star Eyes.mp3";		
+f[4]	= "06 The Folks Who Live on the Hill.mp3";		
+f[5]	= "08 Manoir de Mes Reves-Daphne.mp3";		
+f[6]	= "09 Are You in the Mood-.mp3";		
+f[7]	= "13 A Nightingale Sang in Berkeley Square.mp3";		
+f[8]	= "14 Someone to Watch over Me-I Got Rhythm.mp3";		
+f[9]	= "Djangology.mp3";		
+f[10]	= "Insensiblement.mp3";		
+f[11]	= "Nuages.mp3";		
+f[12]	= "S-H-I-N-E.mp3";		
+f[13]	= "Solitude.mp3";		
+f[14]	= "Tears.mp3";		
