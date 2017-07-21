@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Safe European Home.mp3";		
+f[2]	= "02 English Civil War.mp3";		
+f[3]	= "03 Tommy Gun.mp3";		
+f[4]	= "04 Julie's Been Working for the Drug Squad.mp3";		
+f[5]	= "05 Last Gang in Town.mp3";		
+f[6]	= "06 Guns on the Roof.mp3";		
+f[7]	= "07 Drug-Stabbing Time.mp3";		
+f[8]	= "08 Stay Free.mp3";		
+f[9]	= "10 All the Young Punks (New Boots and Contracts).mp3";		
+f[10]	= "Cheapskates.mp3";		
