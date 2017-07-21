@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Keep It Comin' Love.mp3";		
+f[2]	= "02 It's the Same Old Song.mp3";		
+f[3]	= "03 Do You Feel All Right [Single Edit].mp3";		
+f[4]	= "04 Who Do Ya Love.mp3";		
+f[5]	= "05 Do You Wanna Go Party [Full-Length Album Version].mp3";		
+f[6]	= "06 Please Don't Go.mp3";		
+f[7]	= "07 I Betcha Didn't Know That.mp3";		
+f[8]	= "08 Yes, I'm Ready.mp3";		
+f[9]	= "09 Let's Go Rock and Roll.mp3";		
+f[10]	= "10 All I Want.mp3";		
+f[11]	= "11 Dancin' in the Streets.mp3";		
+f[12]	= "12 Give It Up.mp3";		
+f[13]	= "13 Por Favor No Te Vayas.mp3";		
+f[14]	= "14 Please Don't Go '92 [US Radio Edit].mp3";		
+f[15]	= "15 Get Down Tonight [A Tom Moulton mix].mp3";		
